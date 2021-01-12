@@ -19,7 +19,7 @@ url: /stories/story/online-school-experience
 
 
 ## The 2020 Online School Experience
-After 2019, Entering 8.4 class was a bit of a problem. I don't know people's behavior, face, only their names and whatsapp number. Although I know some in 8.4 and has met them.
+After 7.5, Entering 8.4 class was a bit of a problem. I don't know people's behavior, face, only their names and whatsapp number. Although I know some in 8.4 and has met them.
 
 ### Weeks before chaos
 Everything is fine at this time, I quickly adapted to online school system.
