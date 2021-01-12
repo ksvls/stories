@@ -29,7 +29,7 @@ Doing every assignments that I need to.
 When checking back how I was peforming on the previous daily exam. I was surprised "how can this answer can be wrong?", because thats the right answer everywhere else (even in the subject matter it self). Making me lazy because of that, like "Is this *intentional*? or what?".
 
 ### The chaos it self
-Day by day I was not doing my assignment. Why, you may ask? please read previous section. Although the easier one I do. Also some announcement are announced a day before the event itself which is annoying. Also why some assignment are not marked as assigment so that I need to send the answer using Whatsapp? ¯\_(ツ)_/¯
+Day by day I was not doing my assignment. Why, you may ask? please read previous section. Although the easier one I do. Also some announcement are announced a day before the event itself which is annoying. Also why some assignment are not marked as assigment so that I need to send the answer using Whatsapp? `¯\_(ツ)_/¯`
 
 ### Months before 2021 start
 
