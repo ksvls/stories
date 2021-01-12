@@ -14,6 +14,7 @@ url: /stories/story/online-school-experience
     + [Months before 2021 start](#months-before-2021-start)
   * [Summary](#summary)
     + [What happen and why](#what-happen-and-why)
+    + [What I learn](#what-i-learn)
     + [Plan for 2021](#plan-for-2021)
 
 
