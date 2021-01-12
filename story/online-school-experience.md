@@ -43,3 +43,4 @@ Doing every assigment as fast as possible so that bloody hell 2020 experience ho
 
 ----
 If you want to share this article or this story as the url says. I recommend don't, but you can if you want to. Thank you for reading, Cya 👋
+> Note: This is based on reality not fiction.
