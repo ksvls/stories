@@ -1,6 +1,7 @@
 ---
-title: testing
 url: /story/test
 ---
+
+# Testing
 
 yea what?
