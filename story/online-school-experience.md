@@ -4,19 +4,18 @@ url: /stories/story/online-school-experience
 
 # Online School Experience
 
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="">The 2020 Online School Experience</a></li>
-    <li>
-      <a href="">Summary</a>
-      <ul>
-        <li><a href="">How </a></li>
-        <li><a href="">Plan for 2021</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
+## Table Of Contents
+- [Online School Experience](#online-school-experience)
+  * [Table Of Contents](#table-of-contents)
+  * [The 2020 Online School Experience](#the-2020-online-school-experience)
+    + [Weeks before chaos](#weeks-before-chaos)
+    + [Start of the chaos](#start-of-the-chaos)
+    + [The chaos it self](#the-chaos-it-self)
+    + [Months before 2021 start](#months-before-2021-start)
+  * [Summary](#summary)
+    + [What happen and why](#what-happen-and-why)
+    + [Plan for 2021](#plan-for-2021)
+
 
 ## The 2020 Online School Experience
 After 2019, Entering 8.4 class was a bit of a problem. I don't know people's behavior, face, only their names and whatsapp number. Although I know some in 8.4 and has met them.
@@ -37,7 +36,7 @@ At this time I was starting to do all of my undone assigment from easier one to 
 
 
 ## Summary
-### What happen and why?
+### What happen and why
 Lazyness appear after a few weeks into previous year online school.
 ### Plan for 2021
 Doing every assigment as fast as possible so that bloody hell 2020 experience hopefully never comeback.
