@@ -1,1 +1,5 @@
+---
+url: /story/test
+---
+
 what?
