@@ -42,5 +42,4 @@ Lazyness appear after a few weeks into previous year online school.
 Doing every assigment as fast as possible so that bloody hell 2020 experience hopefully never comeback.
 
 ----
-If you want to share this article or this story as the url says. I recommend don't, but you can if you want to.
-Cya 👋
+If you want to share this article or this story as the url says. I recommend don't, but you can if you want to. Thank you for reading, Cya 👋
